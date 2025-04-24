@@ -12,7 +12,7 @@ This project is a **PID-based Line Follower Robot** built with Arduino UNO, 5-ch
 - ✅ L293D Motor Driver
 - ✅ 2 × 12V DC Gear Motors (500 RPM)
 - ✅ 5-Channel IR Sensor Array (connected to A1–A5)
-- ✅ External Battery (12V for motors, 5V regulated for sensors/Arduino)
+- ✅ External Battery (7.4v lipo battery)
 - ✅ Jumper wires, Breadboard or PCB
 - ✅ Chassis, Wheels
 
